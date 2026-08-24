@@ -15,7 +15,7 @@
 
 namespace {
 	const std::string INPUT_FILE = "CSC450_CT5_mod5.txt";
-	const std::string REVERSE_FILE = "CSC450_CT5_mod5_reverse.txt";
+	const std::string REVERSE_FILE = "CSC450-mod5-reverse.txt";
 	const std::size_t MAXIMUM_INPUT_LENGTH = 1000;
 
 	// Checks for control characters to avoid malformed text
