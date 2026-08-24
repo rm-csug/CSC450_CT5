@@ -1,0 +1,20 @@
+# Eclipse build output
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.d
+*.exe
+FileReversal
+
+# Generated application output
+CSC450-mod5-reverse.txt
+*.tmp
+
+# Assignment document artifacts
+screenshots/
+*.docx
+
+# macOS
+.DS_Store
